@@ -13,8 +13,9 @@ const styles = StyleSheet.create({
   },
   headerTitle: {
     fontSize: SIZES.large,
-    fontFamily: FONT.medium,
+    fontFamily: FONT.bold,
     color: COLORS.primary,
+    marginTop: SIZES.xLarge,
   },
   headerBtn: {
     fontSize: SIZES.medium,
